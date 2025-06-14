@@ -46,7 +46,7 @@ internal class Program
     static void MostrarMenu()
     {
         Console.WriteLine("╔══════════════════════════════════════╗");
-        Console.WriteLine("║   Sistema de Ventas – Café Campus    ║");
+        Console.WriteLine("║   Sistema de Ventas – Café Tibas    ║");
         Console.WriteLine("╚══════════════════════════════════════╝\n");
         Console.WriteLine("1. Registrar venta");
         Console.WriteLine("2. Reabastecer stock");
